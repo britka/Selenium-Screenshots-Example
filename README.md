@@ -1,0 +1,1 @@
+# Selenium-Screenshots-Example
